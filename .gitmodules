@@ -1,0 +1,3 @@
+[submodule "logger_kit"]
+	path = logger_kit
+	url = git@github.com:anqorithm/fastapi-sub-modules-logger-kit.git
